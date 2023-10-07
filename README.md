@@ -1,13 +1,12 @@
 # Furniture Website
 
-Welcome to our furniture website!. It showcases a collection of furniture items to evaluate your living spaces and allows users to browse, view details, and make purchases.
+Welcome to our furniture website!. It showcases a collection of furniture items to evaluate your living spaces and allows users to browse, view details, and explore various features..
 
 ## Features
 
 - Browse a wide range of furniture products.
 - View detailed product information.
 - Add items to the shopping cart.
-- Proceed to checkout and make purchases.
 - Responsive design for mobile and desktop.
 
 ## Installation
