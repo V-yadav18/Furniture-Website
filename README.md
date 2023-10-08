@@ -9,12 +9,6 @@ Welcome to our furniture website!. It showcases a collection of furniture items 
 - Add items to the shopping cart.
 - Responsive design for mobile and desktop.
 
-## Installation
-
- 1. Clone the repository:
- 
-  git clone https://github.com/yourusername/furniture-website.git
-
 ## Usage
 
 - Start exploring the furniture collection by clicking on categories or products.
