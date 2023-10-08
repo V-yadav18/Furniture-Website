@@ -11,9 +11,9 @@ Welcome to our furniture website!. It showcases a collection of furniture items 
 
 ## Installation
 
- Clone the repository:
+ 1. Clone the repository:
  
- git clone https://github.com/your-username/furniture-website.git2
+  git clone https://github.com/yourusername/furniture-website.git
 
 ## Usage
 
