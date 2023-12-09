@@ -14,6 +14,11 @@ Welcome to our furniture website!. It showcases a collection of furniture items 
 - Start exploring the furniture collection by clicking on categories or products.
 - Click on a product to view more details and add it to your cart.
 
+## Screenshot
+
+![Home Page](https://github.com/V-yadav18/Furniture-Website/assets/144485244/7049bbfa-f186-474e-bbdb-518b294ee02c)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
